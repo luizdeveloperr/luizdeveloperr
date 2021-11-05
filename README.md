@@ -8,4 +8,4 @@ I am recent engineering graduate looking for opportunities and collabaration in 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=USERNAME)
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Nearbotzin01) [<img  "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/Nearbotzin/) [<img src = 
+[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Nearbotzin01) [<img   
