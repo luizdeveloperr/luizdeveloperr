@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nearbotzin&label=Profile%20views&color=0e75b6&style=flat" alt="nearbotzin" /> </p>
 
-- 👨‍💻 All of my projects are available at [nothing for now](nothing for now)
+- 👨‍💻 All of my projects are available at (nothing for now)
 
-- 💬 Ask me about **JavaScript,HTML and**
+- 💬 Ask me about **JavaScript,HTML and DBD.js**
 
 - 📫 How to reach me **stevemorreu129@gmail.com**
 
