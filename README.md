@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nearbotzin</h1>
 <h3 align="center">I'm a back-end and front-end developer and I also build bots and program</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nearbotzin&label=Profile%29kviews&color=0e75b6&style=flat" alt="nearbotzin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nearbotzin&label=Profile%30views&color=0e75b6&style=flat" alt="nearbotzin" /> </p>
 
 - 👨‍💻 All of my projects are available at (nothing for now)
 
