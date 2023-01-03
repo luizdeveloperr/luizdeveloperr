@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nearbotzin</h1>
+<h1 align="center">Hi 👋, I'm Luiz</h1>
 <h3 align="center">I'm a back-end and front-end developer and I also build bots and program</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nearbotzin&label=Profile%views&color=0e75b6&style=flat" alt="nearbotzin" /> </p>
