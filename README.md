@@ -3,10 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nearbotzin&label=Profile%views&color=0e75b6&style=flat" alt="nearbotzin" /> </p>
 
-- 👨‍💻 All of my projects are available at (nothing for now)
+- 👨‍💻 My repositories are always up to date.
 
-- 💬 Ask me about **JavaScript,HTML and DBD.js**
+- 💬 Ask me about **Python and DBD.js**
 
-- 📫 How to reach me **stevemorreu129@gmail.com**
+- 📫 How to reach me **nearbotzinsec021@gmail.com**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nearbotzin&show_icons=true&locale=en" alt="nearbotzin" /></p>
