@@ -14,8 +14,8 @@ Olá! 👋 Eu sou o Luiz Eduardo, também conhecido como Luiz Developer. Sou um 
 
 ## Projetos Destacados
 
-- [Automatização de Mensagens](https://github.com/luizdeveloperr): Projeto privado porém resumidamente ele é um script de automatização de mensagens para WhatsApp e Telegram.
-- [Kyou Plus+ Website](https://github.com/KyouPlus_Website): Este é o site oficial do bot "Kyou Plus+" que participei no desenvolvimento do front-end principalmente.
+- [Botlist Discord](https://jujutsulist.discloud.app/): Uma botlist aberta e totalmente automatizada para bots discord.
+- [Speed Cloud](https://speedcloud.cloud): O site da Speed Cloud, uma empresa de hospedagem de bots discord.
 - [Portifólio Simples](https://github.com/luizdeveloperr/portifolio): Um portifólio simples para você divulgar seus projetos de design, programação ou outro ramo.
   
 
